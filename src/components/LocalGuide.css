@@ -1,10 +1,5 @@
 /* Local Guide page background */
 .local-guide-page {
-    background-image: url('https://img.freepik.com/free-vector/female-guide-with-group-tourists-flat-vector-illustration-happy-girls-guys-having-excursion-with-tour-guide-holding-flag-men-women-taking-photo-looking-sightseeing-tourism-trip-concept_74855-24526.jpg'); /* Replace with your image URL */
-    background-size: contain;  /* Ensures the image covers the entire page */
-    background-position: center; /* Centers the image */
-    background-repeat: no-repeat; /* Prevents the image from repeating */
-    background-attachment: fixed; /* Keeps the background fixed while scrolling */
     padding: 20px;
     font-family: Arial, sans-serif;
 }
